@@ -1,30 +1,5 @@
 <!DOCTYPE html>
-<!--
 
-  _                    _  _                 _         _
- | |                  | |(_)               | |       | |
- | | __ ___   _ __  __| | _  _ __    __ _  | |  __ _ | |__
- | |/ // _ \ | '__|/ _` || || '_ \  / _` | | | / _` || '_ \
- |   <| (_) || |  | (_| || || | | || (_| | | || (_| || |_) |
- |_|\_\\___/ |_|   \__,_||_||_| |_| \__, | |_| \__,_||_.__/
-                                     __/ |
-                                    |___/
-
-
-I love those that desire the impossible - Goethe.
-(if you get email from Konrad, you will see this quote)
-
-                boing         boing         boing
-      e-e           . - .         . - .         . - .
-     (\_/)\       '       `.   ,'       `.   ,'       .
-      `-'\ `--.___,         . .           . .          .
-         '\( ,_.-'
-            \\               "             "            a:f
-            ^'
-
-^ This is basically T-Rex jumping
-
--->
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -46,10 +21,12 @@ I love those that desire the impossible - Goethe.
   <!-- favicon -->
   <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
   <link rel="shortcut icon" href="{{ site.url }}/favicon.png">
+  <!-- extra favicon settings
   <link rel="apple-touch-icon-precomposed" href="{{ site.url }}/images/logo/apple-touch-icon-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ site.url }}/images/logo/apple-touch-icon-72x72-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.url }}/images/logo/apple-touch-icon-114x114-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/images/logo/apple-touch-icon-144x144-precomposed.png">
+  -->
 
   <!-- open graph -->
 
@@ -65,54 +42,10 @@ I love those that desire the impossible - Goethe.
 
 </head>
 
-<script>
-/**
-* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-
-s.src = '//kordinglab.disqus.com/embed.js';
-
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
 <body id="page-top" style="padding-top: 7em;">
 
     {% include navbar.html %}
     {{ content }}
-
-    <script id="dsq-count-scr" src="//kordinglab.disqus.com/count.js" async></script>
-    <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-    <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-34145995-1");
-    pageTracker._trackPageview();
-    </script>
-
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34145995-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-34145995-1');
-    </script>
 
 </body>
 </html>
