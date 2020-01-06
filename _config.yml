@@ -3,9 +3,9 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "SPI Lab"
+title:              "SPI Lab | Security Privacy Interaction Lab at the University of Michigan"
+description:        "We are a privacy research group at the School of Information at the University of Michigan."
 
 
 # URL
@@ -30,8 +30,8 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name:           "resources"
-    href:           "/resources"
+  - name:           "get involved"
+    href:           "/join"
 
 # Sass
 sass:
