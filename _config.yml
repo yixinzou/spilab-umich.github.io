@@ -9,7 +9,7 @@ description:        "We are a privacy research group at the School of Informatio
 
 
 # URL
-url:                http://spilab-umich.github.io
+url:                https://spilab-umich.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
