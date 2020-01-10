@@ -13,7 +13,7 @@ Here we can write some sort of statement about open access, copyright, research 
 _Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings_<br>
 Justin Petelka, Yixin Zou, Florian Schaub<br>
 CHI 2019: ACM Conference on Human Factors in Computing<br>
-[PDF](https://yixinzou.github.io/publications/chi2019-petelka.pdf) | [PDF](https://yixinzou.github.io/publications/chi2019-petelka.pdf)
+[DOI](https://doi.org/10.1145/3290605.3300748) | [PDF](https://yixinzou.github.io/publications/chi2019-petelka.pdf)
 
 ### 2018
 
