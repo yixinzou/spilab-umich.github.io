@@ -22,14 +22,10 @@ highlighter:        rouge
 
 # Navigation
 nav:
-  - name:           "home"
-    href:           "/"
-  - name:           "about"
-    href:           "/about"
-  - name:           "publications"
-    href:           "/publication"
   - name:           "people"
     href:           "/people"
+  - name:           "publications"
+    href:           "/publication"
   - name:           "get involved"
     href:           "/join"
 
