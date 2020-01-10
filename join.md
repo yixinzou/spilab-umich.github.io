@@ -1,6 +1,6 @@
 ---
 title: Get Involved
-permalink: /join/
+permalink: /about/
 ---
 
 {% assign reference_types = "scientists|students|blog|discussion" | split: "|" %}
