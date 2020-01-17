@@ -11,8 +11,8 @@ _PoPETS: Proceedings on Privacy Enhancing Technologies 2020(2)_<br>
 
 __Usable and Useful Privacy Interfaces__<br>
 Florian Schaub & Lorrie Faith Cranor<br>
-Book chapter in _An Introduction to Privacy for Technology Professionals_, IAPP
-[pdf](https://s3.amazonaws.com/media.iapp.org/samples/IAPP-Intro-to-Privacy-for-Tech-Prof-SAMPLE.pdf)
+Book chapter in _An Introduction to Privacy for Technology Professionals_, IAPP<br>
+[PDF](https://s3.amazonaws.com/media.iapp.org/samples/IAPP-Intro-to-Privacy-for-Tech-Prof-SAMPLE.pdf)
 
 ### 2019
 
