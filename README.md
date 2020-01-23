@@ -1,4 +1,4 @@
-# Kording lab page
+# SPI lab page
 
 This is repository for SPI Lab, gratefully borrowed from the [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
