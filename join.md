@@ -1,6 +1,6 @@
 ---
 title: Get Involved
-permalink: /about/
+permalink: /join/
 ---
 
 
