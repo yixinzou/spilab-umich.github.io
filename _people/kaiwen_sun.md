@@ -3,7 +3,7 @@ name: Kaiwen Sun
 position: phdstudent
 avatar: 
 twitter: 
-joined: 2016
+joined: 2017
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

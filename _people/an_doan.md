@@ -2,7 +2,7 @@
 name: An Doan
 position: undergradstudent
 avatar:
-twitter: KordingLab
+twitter:
 joined: 2019
 ---
 

@@ -1,8 +1,8 @@
 ---
-name: Annie Chen
+name: Gary Shou
 position: undergradstudent
-avatar: 
+avatar:
 twitter:
-joined: 2021
+joined: 2020
 ---
 
