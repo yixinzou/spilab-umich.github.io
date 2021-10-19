@@ -1,7 +1,7 @@
 ---
 name: Allison McDonald
 position: phdstudent
-avatar: ari_benjamin.jpg
+avatar: 
 twitter: 
 joined: 2017
 ---

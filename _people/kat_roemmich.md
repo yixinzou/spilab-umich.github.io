@@ -1,7 +1,7 @@
 ---
 name: Kat Roemmich
 position: phdstudent
-avatar: ari_benjamin.jpg
+avatar: 
 twitter:
 joined: 2020
 ---

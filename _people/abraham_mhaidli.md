@@ -19,6 +19,6 @@ joined: 2017
 
 
 ### About Abraham
-Abraham is a PhD student at the University of Michigan. He focuses on studying the ethical impacts of new and emerging technologies, such as Extended Reality headsets, Brain Computer Interfaces, IoT devices, and more. Currently he is focusing on studying XR advertising, trying to understand not only what XR advertising will look like in the near future, but also what are the consumer risks that these ads could create and what can we do to mitigate their harms.
+Abraham is a PhD student at the University of Michigan. He focuses on studying the ethical impacts of new and emerging technologies, such as Extended Reality headsets, Brain Computer Interfaces, IoT devices, and more. Currently he is focusing on studying XR advertising, understanding not only what XR advertising will look like in the near future, but also what are the consumer risks that these ads could create and what can we do to mitigate their harms.
 
 Outside of research, Abraham enjoys watching football (the international kind), playing videogames, Dungeons and Dragons, cooking, and complaining about the cold at Michigan.

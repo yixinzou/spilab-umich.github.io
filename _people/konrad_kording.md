@@ -1,7 +1,7 @@
 ---
 name: Florian Schaub
 position: pi
-avatar: konrad_profile_3.jpg
+avatar: 
 twitter: KordingLab
 ---
 

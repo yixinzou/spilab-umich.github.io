@@ -1,7 +1,7 @@
 ---
 name: An Doan
 position: undergradstudent
-avatar: konrad_profile_3.jpg
+avatar:
 twitter: KordingLab
 joined: 2019
 ---
