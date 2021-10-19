@@ -9,14 +9,14 @@ permalink: /publication/
 __Identifying Manipulative Advertising Techniques in XR Through Scenario Construction__<br>
 Abraham Mhaidli, Florian Schaub<br>
 _CHI 2019: ACM Conference on Human Factors in Computing_<br>
-[DOI](https://doi.org/10.1145/3411764.3445253) | [PDF](https://mhaidli.github.io/papers/CHI_2021_XR_Advertising_Manipulation.pdf)
+[DOI](https://doi.org/10.1145/3411764.3445253) | [PDF](https://spilab-umich.github.io/publications/mhaidli2021identifying.pdf)
 
 ### 2020
 
 __Listen Only When Spoken To: Interpersonal Communication Cues as Smart Speaker Privacy Controls__<br>
 Abraham H. Mhaidli, Manikandan Kandai Venkatesh, Yixin Zou, Florian Schaub<br>
 _PoPETS: Proceedings on Privacy Enhancing Technologies 2020(2)_<br>
-[DOI](https://doi.org/10.1145/3411764.3445253) | [PDF](https://mhaidli.github.io/papers/
+[DOI](https://doi.org/10.1145/3411764.3445253) | [PDF](https://mhaidli.github.io/papers/)
 
 __Usable and Useful Privacy Interfaces__<br>
 Florian Schaub & Lorrie Faith Cranor<br>
