@@ -538,3 +538,13 @@ tbody tr:nth-child(odd) th {
   border: none;
   background-color: #FFF;
 }
+
+.imgppl {
+  opacity: 1.0;
+  filter: alpha(opacity=100);
+}
+
+.imgppl:hover {
+  opacity: 0.75;
+  filter: alpha(opacity=60);
+}
