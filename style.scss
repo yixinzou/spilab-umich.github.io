@@ -548,3 +548,26 @@ tbody tr:nth-child(odd) th {
   opacity: 0.75;
   filter: alpha(opacity=60);
 }
+
+
+.projectdiv{
+  // display: block;
+  display: flex;
+}
+
+.project-thumbnail {
+  object-fit: cover;
+  object-position: left top;
+}
+
+.project-text{
+  padding-left: 20px;
+  width: 60%;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica;
+}
+
+.project-title{
+  font-size: 30px;
+  text-align: left top;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica;
+}
