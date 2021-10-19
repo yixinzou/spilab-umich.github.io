@@ -57,10 +57,10 @@ Abraham H. Mhaidli, Manikandan Kandai Venkatesh, Yixin Zou, Florian Schaub<br>
 _PoPETS: Proceedings on Privacy Enhancing Technologies_, 2020(2), 251--270<br>
 [Link](https://doi.org/10.2478/popets-2020-0026) | [PDF](.././publications/mhaidli2020listen.pdf)
 
-__"It's a scavenger hunt": Usability of Websites' Opt-Out and Data Deletion Choices__<br>
+<!-- __"It's a scavenger hunt": Usability of Websites' Opt-Out and Data Deletion Choices__<br>
 Hana Habib, Sarah Pearman, Jiamin Wang, Yixin Zou, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub<br>
 _CHI 2020: ACM Conference on Human Factors in Computing_, 384:1--384:12<br>
-[Link](https://dl.acm.org/doi/10.1145/3313831.3376511) | [PDF](.././publications/habib2020usability.pdf)
+[Link](https://dl.acm.org/doi/10.1145/3313831.3376511) | [PDF](.././publications/habib2020usability.pdf) -->
 
 __Examining the Adoption and Abandonment of Security, Privacy, and Identity Theft Protection Practices__<br>
 Yixin Zou, Kevin Roundy, Acar Tamersoy, Saurabh Shintre, Johann Roturier, Florian Schaub<br>
@@ -74,20 +74,20 @@ Abraham H. Mhaidli, Yixin Zou, Florian Schaub<br>
 _SOUPS 2019: Symposium on Usable Privacy and Security_, 225--244<br>
 [Link](https://www.usenix.org/system/files/soups2019-mhaidli.pdf) | [PDF](.././publications/mhaidli2019developers.pdf)
 
-__An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites__<br>
+<!-- __An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites__<br>
 Hana Habib, Yixin Zou, Aditi Jannu, Neha Sridhar, Chelse Swoopes, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub<br>
 _SOUPS 2019: Symposium on Usable Privacy and Security_, 387--406<br>
-[Link](https://www.usenix.org/system/files/soups2019-habib.pdf) | [PDF](.././publications/habib2019empirical.pdf)
+[Link](https://www.usenix.org/system/files/soups2019-habib.pdf) | [PDF](.././publications/habib2019empirical.pdf) -->
 
 __You 'Might' Be Affected: An Empirical Analysis of Readability and Usability Issues in Data Breach Notifications__<br>
 Yixin Zou, Shawn Danino, Kaiwen Sun Florian Schaub<br>
 _CHI 2019: ACM Conference on Human Factors in Computing_, 194:1--194:14<br>
 [Link](https://doi.org/10.1145/3290605.3300424) | [PDF](.././publications/zou2019breach.pdf)
 
-__Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings__<br>
+<!-- __Put Your Warning Where Your Link Is: Improving and Evaluating Email Phishing Warnings__<br>
 Justin Petelka, Yixin Zou, Florian Schaub<br>
 _CHI 2019: ACM Conference on Human Factors in Computing_, 518:1--518:15<br>
-[Link](https://doi.org/10.1145/3290605.3300748) | [PDF](.././publications/petelka2019put.pdf)
+[Link](https://doi.org/10.1145/3290605.3300748) | [PDF](.././publications/petelka2019put.pdf) -->
 
 __Beyond Mandatory: Making Data Breach Notifications Useful for Consumers__<br>
 Yixin Zou, Florian Schaub<br>
@@ -121,9 +121,9 @@ Florian Schaub, Lorrie Faith Cranor<br>
 Book chapter in _An Introduction to Privacy for Technology Professionals_, IAPP<br>
 [Link](https://iapp.org/store/books/a191P000003nSYrQAM/) | [PDF](.././publications/schaub2020usable.pdf)
 
-### 2018
+<!-- ### 2018 -->
 
-__Privacy in Mobile and Pervasive Computing__<br>
+<!-- __Privacy in Mobile and Pervasive Computing__<br>
 Marc Langheinrich, Florian Schaub<br>
 Book. _Synthesis Lectures on Mobile and Pervasive Computing_, Morgan & Claypool<br>
-[Link](https://doi.org/10.2200/S00882ED1V01Y201810MPC013)
+[Link](https://doi.org/10.2200/S00882ED1V01Y201810MPC013) -->
