@@ -18,7 +18,7 @@ Below, we explain how to edit the lab webpage
 
 ### Add posts
 
-It's very easy to add post. All the posts are located in `_posts` folder. It arrangement is based on
+It's very easy to add a post. All the posts are located in `_posts` folder. It arrangement is based on
 date. Each post can be written in markdown format. You just have to state headers before writing: `title`, `description` and `categories`. `description` will be shown when you share on social media like Facebook or twitter. See the following headers:
 
 ``` markdown
