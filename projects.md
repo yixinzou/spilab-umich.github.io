@@ -36,7 +36,11 @@ permalink: /projects/
             <a href="{{ site.baseurl }}{{ project.url }}"><img class="project-thumbnail imgppl" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
           {% endif %}
         </div>
+        {% if project.blurb %}
+        <div class="project-text"> {{ project.blurb }} </div>
+        {% else %}
         <div class="project-text"> {{ project.excerpt }} </div>
+        {% endif %}
       </div>    
     {% endif %}
   {% endfor %}
