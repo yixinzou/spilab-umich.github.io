@@ -13,7 +13,7 @@ joined: 2017
 <i class="fa fa-envelope-o"></i>  `mhaidli@umich.edu`<br>
 <i class="fa fa-building"></i> NQ 4376 <br>
 <i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=6AmqUE0AAAAJ) <br>
- [mhaidli.github.io](https://https://mhaidli.github.io/)
+ [mhaidli.github.io](https://mhaidli.github.io/)
 
 <hr>
 
