@@ -1,7 +1,7 @@
 ---
 name: Allison McDonald
 position: phdstudent
-avatar: 
+avatar: amcdon.png
 twitter: 
 joined: 2017
 ---
