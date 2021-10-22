@@ -24,6 +24,8 @@ highlighter:        rouge
 nav:
   - name:           "people"
     href:           "/people"
+  - name:           "projects"
+    href:           "/projects"
   - name:           "publications"
     href:           "/publication"
   - name:           "get involved"
@@ -53,9 +55,18 @@ defaults:
       type:         "people"
     values:
       layout:       "profile"
+  -
+    scope:
+      path:         ""
+      type:         "projects"
+    values:
+      layout:       "profile"
 
 
 collections:
   people:
     output: true
     permalink: /people/:title/index.html
+
+  projects:
+    output: true
