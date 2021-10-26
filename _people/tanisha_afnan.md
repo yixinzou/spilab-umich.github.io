@@ -1,8 +1,8 @@
 ---
 name: Tanisha Afnan
 position: phdstudent
-avatar: 
-twitter: 
+avatar: tanishaprofile
+twitter: afnan_tanisha
 joined: 2020
 ---
 
