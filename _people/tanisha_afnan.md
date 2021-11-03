@@ -17,12 +17,6 @@ joined: 2020
 
 <hr>
 
-### Bio
-
-TBD
-
-<hr>
-
 ### Research Interests
 
-TBD
+Tanisha is interested in understanding the digital privacy concerns, behaviors, and attitudes of exposure-sensitive populations in their day to day interactions online, hoping to help create usable, accessible, and inclusive privacy options for all.
